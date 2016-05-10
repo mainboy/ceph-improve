@@ -1,0 +1,4 @@
+test/erasure-code/libec_missing_entry_point_la-ErasureCodePluginMissingEntryPoint.lo: \
+ test/erasure-code/ErasureCodePluginMissingEntryPoint.cc ceph_ver.h
+
+ceph_ver.h:

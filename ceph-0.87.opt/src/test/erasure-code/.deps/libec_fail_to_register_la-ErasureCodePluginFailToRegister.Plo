@@ -1,0 +1,4 @@
+test/erasure-code/libec_fail_to_register_la-ErasureCodePluginFailToRegister.lo: \
+ test/erasure-code/ErasureCodePluginFailToRegister.cc ceph_ver.h
+
+ceph_ver.h:

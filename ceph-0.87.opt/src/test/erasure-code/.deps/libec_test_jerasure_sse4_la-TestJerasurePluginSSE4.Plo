@@ -1,0 +1,4 @@
+test/erasure-code/libec_test_jerasure_sse4_la-TestJerasurePluginSSE4.lo: \
+ test/erasure-code/TestJerasurePluginSSE4.cc ceph_ver.h
+
+ceph_ver.h:
